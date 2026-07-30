@@ -1,0 +1,36 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="jFfNTqqRmRC7tG16Eqqr">
+    <mxGraphModel dx="1414" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_1COHvPrbt9ChnzLzxR--4" edge="1" parent="1" source="9jI7GrtVzK3iiLUMOvwO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=2;" target="9jI7GrtVzK3iiLUMOvwO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9jI7GrtVzK3iiLUMOvwO-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Strategic Intent" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9jI7GrtVzK3iiLUMOvwO-5" edge="1" parent="1" source="9jI7GrtVzK3iiLUMOvwO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="9jI7GrtVzK3iiLUMOvwO-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9jI7GrtVzK3iiLUMOvwO-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="Value stream" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="9jI7GrtVzK3iiLUMOvwO-8" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Process" vertex="1">
+          <mxGeometry height="80" width="120" x="330" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="BzeaR46-kfVX8zO5mjB3-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;autosizeText=1;fontSize=78;" value="todo" vertex="1">
+          <mxGeometry height="160" width="160" x="510" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_1COHvPrbt9ChnzLzxR--3" edge="1" parent="1" source="_1COHvPrbt9ChnzLzxR--2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="9jI7GrtVzK3iiLUMOvwO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_1COHvPrbt9ChnzLzxR--2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fontFamily=Georgia;" value="Business Process" vertex="1">
+          <mxGeometry height="80" width="80" x="40" y="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
